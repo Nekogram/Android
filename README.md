@@ -5,7 +5,7 @@ But, Nekogram is a fork of [Telegram for Android](https://www.github.com/drklo/T
 
 And Nekogram just became one.
 
-This also means DrKLO, the dev of Nekogram, can force them to pull the app. The obfuscated code means it's harder to see that they're using code identical to the one in official Telegram, but I have put a few links to older source code below.
+This also means DrKLO, the dev of Telegram, can force them to pull the app. The obfuscated code means it's harder to see that they're using code identical to the one in official Telegram, but I have put a few links to older source code below.
 ## List of forks
 Archive of the main repo: https://web.archive.org/web/20200916115422/https://github.com/Nekogram/Android
 
