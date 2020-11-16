@@ -11,7 +11,7 @@ Archive of the main repo: https://web.archive.org/web/20200916115422/https://git
 
 https://github.com/NekoX-Dev/NekogramBackup
 
-~~https://github.com/NekogramX-Backup/NekoX~~  Nekogram X gets a pass, it's a FOSS fork of the original
+~~https://github.com/NekoX-Dev/NekoX~~  Nekogram X gets a pass, it's a FOSS fork of the original
 
 https://github.com/QdWan/Nekogram
 
